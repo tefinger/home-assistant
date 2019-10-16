@@ -477,7 +477,7 @@ eternalegypt==0.0.10
 # evdev==0.6.1
 
 # homeassistant.components.evohome
-evohome-async==0.3.3b4
+evohome-async==0.3.3b5
 
 # homeassistant.components.dlib_face_detect
 # homeassistant.components.dlib_face_identify
@@ -916,6 +916,9 @@ openwebifpy==3.1.1
 # homeassistant.components.luci
 openwrt-luci-rpc==1.1.1
 
+# homeassistant.components.oru
+oru==0.1.9
+
 # homeassistant.components.orvibo
 orvibo==1.1.1
 
@@ -1081,7 +1084,7 @@ pyalarmdotcom==0.3.2
 pyarlo==0.2.3
 
 # homeassistant.components.netatmo
-pyatmo==2.2.1
+pyatmo==2.3.2
 
 # homeassistant.components.atome
 pyatome==0.1.1
